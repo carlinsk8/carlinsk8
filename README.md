@@ -1,6 +1,6 @@
 # Hi, I'm Carlos España 👋
 
-- 🔭 I’m currently working on [Freyresoft](https://psious.com/) and i'm Freelance 
+- 🔭 I’m currently working on [Freyresoft](http://freyresoft.com/) and i'm Freelance 
 - 🌱 Every day I learn more about Flutter and I like it...
 
 ## ⚡ Technologies
