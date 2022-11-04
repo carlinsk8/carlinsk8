@@ -1,7 +1,10 @@
 # Hi, I'm Carlos España 👋
 
-- 🔭 I’m currently working on [Freyresoft](http://freyresoft.com/) and i'm Freelance 
+- 🔭 I’m currently working on [Nolatech](https://nolatech.ai)
 - 🌱 Every day I learn more about Flutter and I like it...
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/creegplay) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/creeg) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@creegplay) 
 
 ## ⚡ Technologies
 ![Dart](https://img.shields.io/badge/-Dart-blue?style=flat-square&logo=dart)
@@ -19,3 +22,17 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=carlinsk8&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=carlinsk8&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=carlinsk8&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=carlinsk8&icon=0&color=0)](https://visitcount.itsvg.in)
