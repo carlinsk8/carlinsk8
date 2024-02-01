@@ -1,6 +1,5 @@
 # Hi, I'm Carlos España 👋
 
-- 🔭 I’m currently working on [Nolatech](https://nolatech.ai)
 - 🌱 Every day I learn more about Flutter and I like it...
 
 ## 🌐 Socials:
