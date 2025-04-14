@@ -1,6 +1,6 @@
 # Hi, I'm Carlos España 👋
 
-- 🌱 Every day I learn more about Flutter and I like it...
+- 🌱 Every day I dive deeper into mobile development, especially with Flutter, and I absolutely love it...
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/creegplay) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/creeg) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@creegplay) 
